@@ -2,5 +2,5 @@ Hello may A, update noi dung moi, nội dung mới phát triển từ máy A
 Máy B thêm nội dung cho file mới 
 nội dung máy B sửa
 Máy A thêm nội dung cho task mới
-Git server thêm nội dung
+Git server thêm nội dung 2 3 4
 
